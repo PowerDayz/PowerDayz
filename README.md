@@ -12,7 +12,7 @@ My work is focused on turning complex ideas into functioning systems: secure cli
 A Copenhagen-based engineering company building precise, useful technology products.
 
 **Timelapse Connect**  
-A secure local-first platform for clinics using MIRI timelapse incubators, built around modern apps, clinic mini-servers, encrypted access, and privacy-conscious workflows.
+A secure local-first platform for clinics using timelapse incubators, built around modern apps, clinic mini-servers, encrypted access, and privacy-conscious workflows.
 
 **LCEM**  
 A natural-language engineering/CAD system that turns prompts into deterministic geometry, analysis, manufacturing checks, cost estimates, BOMs, and export files. (Still WIP/Closed Source)
