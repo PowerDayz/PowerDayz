@@ -11,7 +11,7 @@ My work is focused on turning complex ideas into functioning systems: secure cli
 **Archolm**  
 A Copenhagen-based engineering company building precise, useful technology products.
 
-**MiriConnect**  
+**Timelapse Connect**  
 A secure local-first platform for clinics using MIRI timelapse incubators, built around modern apps, clinic mini-servers, encrypted access, and privacy-conscious workflows.
 
 **LCEM**  
